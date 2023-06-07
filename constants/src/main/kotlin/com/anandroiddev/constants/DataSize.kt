@@ -3,22 +3,22 @@
 package com.anandroiddev.constants
 
 /**
- * Constants representing the number of bits in different units
+ * Constants representing the number of bytes in different units
  */
-object DataConstants {
+object DataSize {
 
     /**
      * Constant for one byte
      */
-    const val ONE_BYTE = 1
+    const val BYTE = 1
 
     /**
      * Constants for one kilobyte (1024 bytes)
      */
-    const val ONE_KILOBYTE = 1024 * ONE_BYTE
+    const val KILOBYTE = 1024 * BYTE
 
     /**
      * Constants for one megabyte (1024 kilobytes)
      */
-    const val ONE_MEGABYTE = 1024 * 1024
+    const val MEGABYTE = 1024 * 1024
 }
