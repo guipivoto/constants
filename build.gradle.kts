@@ -10,7 +10,7 @@ plugins {
 }
 
 group = "com.anandroiddev"
-version = "0.0.2"
+version = "1.0.0"
 
 var signingKeyId = ""
 var signingKey = ""
