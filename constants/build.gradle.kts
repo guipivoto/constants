@@ -88,7 +88,7 @@ afterEvaluate {
 
                     name.set("An Android Dev Constants")
                     description.set("Small library containing several constants frequently used on any project")
-                    url.set("https://github.com/guipivoto/constants")
+                    url.set("https://anandroiddev.com")
 
                     from(components.getByName("release"))
 
